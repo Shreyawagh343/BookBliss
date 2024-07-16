@@ -1,0 +1,101 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "tile":"The Quest for the Hidden Treasure",
+        "price":0,
+        "category":"Free",
+        "image":"https://marketplace.canva.com/EADaorC-Wfc/3/0/256w/canva-brown%2C-yellow-and-white-classic-mysterious-girl-photo-and-typography-teen-wattpad-book-cover-cx5x9dLHO8w.jpg"
+    },
+    {
+        "id":2,
+        "name":"Story Book",
+        "tile":"Journey Through the Enchanted Forest",
+        "price":0,
+        "category":"Free",
+        "image":"https://qph.cf2.quoracdn.net/main-qimg-f9fedcd54c86bcd65f04767ec8887426-lq"
+    },
+    {
+        "id":3,
+        "name":"Story Book",
+        "tile":"The Adventures of Captain Star",
+        "price":0,
+        "category":"Free",
+        "image":"https://marketplace.canva.com/EADao0McGao/2/0/1024w/canva-black-and-white-classic-dark-woman-photo-fantasy-wattpad-book-cover-3wYHDD07gOU.jpg"
+    },
+    {
+        "id":4,
+        "name":"Story Book",
+        "tile":"The Kingdom of Elara",
+        "price":200,
+        "category":"Story",
+        "image":"https://www.adobe.com/express/create/cover/media_11c3afbb5d73f55288060ad2ed57cd702200b3f74.png?width=750&format=png&optimize=medium"
+    },
+    {
+        "id":5,
+        "name":"Mystery Book",
+        "tile":"The last memories",
+        "price":160,
+        "category":"Mystery",
+        "image":"https://marketplace.canva.com/EAE67FziZsg/1/0/1024w/canva-purple-black-photographic-romance-wattpad-cover-Lmjbxm7-Pe4.jpg"
+    },
+    {
+        "id":6,
+        "name":"Food Book",
+        "tile":"The Adventures of Captain Star",
+        "price":120,
+        "category":"Food",
+        "image":"https://online.visual-paradigm.com/repository/images/0c68acce-8212-4cb2-8cd8-e8ca18066f2a/book-covers-design/delicious-home-cooking-book-cover.png"
+    },
+    {
+        "id":7,
+        "name":"food Book",
+        "tile":"The secert recipes",
+        "price":90,
+        "category":"food",
+        "image":"https://marketplace.canva.com/EAFRtz2Cfo4/1/0/1003w/canva-ivory-blue-bright-fun-recipe-book-cover-OKy75fn0TdA.jpg"
+    },
+    {
+        "id":8,
+        "name":"Mystery Book",
+        "tile":"Loving the ceo",
+        "price":0,
+        "category":"Mystery",
+        "image":"https://qph.cf2.quoracdn.net/main-qimg-e857ff4d37a5e368a2f3c0fd1be9d236-lq"
+    },
+    {
+        "id":9,
+        "name":"Fantasy Book",
+        "tile":"The Adventures of Captain Star",
+        "price":0,
+        "category":"Fantasy",
+        "image":"https://marketplace.canva.com/EADao0McGao/2/0/1024w/canva-black-and-white-classic-dark-woman-photo-fantasy-wattpad-book-cover-3wYHDD07gOU.jpg"
+    },
+    {
+        "id":10,
+        "name":"Fantasy Book",
+        "tile":"The Adventures of Captain Star",
+        "price":0,
+        "category":"Fantasy",
+        "image":"https://marketplace.canva.com/EADao0McGao/2/0/1024w/canva-black-and-white-classic-dark-woman-photo-fantasy-wattpad-book-cover-3wYHDD07gOU.jpg"
+    },
+    {
+        "id":11,
+        "name":"Fantasy Book",
+        "tile":"The Adventures of Captain Star",
+        "price":0,
+        "category":"Fantasy",
+        "image":"https://marketplace.canva.com/EADao0McGao/2/0/1024w/canva-black-and-white-classic-dark-woman-photo-fantasy-wattpad-book-cover-3wYHDD07gOU.jpg"
+    },
+    {
+        "id":12,
+        "name":"Food Book",
+        "tile":"The baking cook book",
+        "price":80,
+        "category":"Food",
+        "image":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/pink-cookbook-cover-design-template-14f54349a65197b03463d9bcca9aae15_screen.jpg?ts=1698303922"
+    }
+    
+    
+    
+]
